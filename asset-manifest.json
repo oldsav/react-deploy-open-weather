@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-deploy-open-weather/static/css/main.dce3e22b.chunk.css",
+    "main.js": "/react-deploy-open-weather/static/js/main.3ce8d078.chunk.js",
+    "main.js.map": "/react-deploy-open-weather/static/js/main.3ce8d078.chunk.js.map",
+    "runtime-main.js": "/react-deploy-open-weather/static/js/runtime-main.26b92aa3.js",
+    "runtime-main.js.map": "/react-deploy-open-weather/static/js/runtime-main.26b92aa3.js.map",
+    "static/js/2.52f0a2f1.chunk.js": "/react-deploy-open-weather/static/js/2.52f0a2f1.chunk.js",
+    "static/js/2.52f0a2f1.chunk.js.map": "/react-deploy-open-weather/static/js/2.52f0a2f1.chunk.js.map",
+    "index.html": "/react-deploy-open-weather/index.html",
+    "static/css/main.dce3e22b.chunk.css.map": "/react-deploy-open-weather/static/css/main.dce3e22b.chunk.css.map",
+    "static/js/2.52f0a2f1.chunk.js.LICENSE.txt": "/react-deploy-open-weather/static/js/2.52f0a2f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26b92aa3.js",
+    "static/js/2.52f0a2f1.chunk.js",
+    "static/css/main.dce3e22b.chunk.css",
+    "static/js/main.3ce8d078.chunk.js"
+  ]
+}
